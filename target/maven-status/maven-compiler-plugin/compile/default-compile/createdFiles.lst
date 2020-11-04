@@ -1,0 +1,9 @@
+hudson\service\TestService.class
+hudson\dao\TestDao.class
+hudson\service\impl\TestImpl.class
+hudson\config\MybatisConfig.class
+hudson\HudsonApplication.class
+hudson\controller\TestController.class
+hudson\config\SwaggerConfig.class
+hudson\entity\TestEntity.class
+hudson\util\RedisUtils.class
